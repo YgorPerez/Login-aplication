@@ -1,3 +1,3 @@
 # Site made to learn how to use firebase and some react hooks
 
-## Tecnologies, React, Firebase
+## Tecnologies, React and Firebase.
