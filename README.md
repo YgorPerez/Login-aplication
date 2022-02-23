@@ -1,6 +1,6 @@
 # Simple login site 
 
-## Built to learn how to use firebase and some react hooks
+### Built to learn how to use firebase and some react hooks
 
 ## Tecnologies, React and Firebase.
 
